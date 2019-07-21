@@ -1,0 +1,4 @@
+/*
+     given baby names and their frequencies and find the actual frequencies of all
+     names if one name as alternative
+*/
